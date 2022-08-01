@@ -1,0 +1,23 @@
+{
+  "name": "vijaysales",
+  "version": "1.0.0",
+  "description": "This Repository contains nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikrantm1/vijaysales.git"
+  },
+  "author": "Vikrant Mandle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikrantm1/vijaysales/issues"
+  },
+  "homepage": "https://github.com/vikrantm1/vijaysales#readme",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.18.1"
+  }
+}
